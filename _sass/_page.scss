@@ -98,13 +98,13 @@
 
   dt {
     margin-top: 1em;
-    font-family: $sans-serif;
+    font-family: $serif;
     font-weight: bold;
   }
 
   dd {
     margin-left: 1em;
-    font-family: $sans-serif;
+    font-family: $serif;
     font-size: $type-size-6;
   }
 
@@ -240,7 +240,7 @@
 .page__meta {
   margin-top: 2em;
   color: mix(#fff, $gray, 25%);
-  font-family: $sans-serif;
+  font-family: $serif;
   font-size: $type-size-6;
 
   p {
@@ -410,4 +410,28 @@
   margin-bottom: 10px;
   font-size: $type-size-6;
   text-transform: uppercase;
+}
+
+.footer_site{
+  padding-top: 9em;
+  align-items: center;
+}
+.page_a {
+  color: #224b8d;
+  text-decoration: none;
+  &:hover {
+    text-decoration: underline;}
+}
+hr {
+  width: 100%;
+  margin: auto;
+}
+
+.footer_copyright{
+  font-family: $sans-serif-narrow;
+  margin-top: 0.5em;
+  margin-bottom: 1em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
