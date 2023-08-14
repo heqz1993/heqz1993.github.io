@@ -132,7 +132,8 @@ a {
 /* code */
 
 tt, code, kbd, samp, pre {
-  font-family: $monospace;
+  font-family: $serif;
+  color: $code-text-color
 }
 
 pre {
