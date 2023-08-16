@@ -42,9 +42,9 @@ redirect_from:
 <div class='paper-box-text' markdown="1">
 
 
-<b>Arbitrary wavefront uncertainty evaluation for the Shack-Hartmann wavefront sensor using physical optics propagation</b>. <br>
+<b>Arbitrary wavefront uncertainty evaluation for the Shack-Hartmann wavefront sensor using physical optics propagation</b>. <a href="https://pubs.aip.org/aip/apl/article/123/7/071102/2906681/Arbitrary-wavefront-uncertainty-evaluation-for-the">[Web]</a> <a href="blob/pdf/APL_2023.pdf">[PDF]</a> <br>
 Jichong Zhou†, `Qiaozhi He†`, Yuan Qu, et al. <br>
-**Applied Physics Letters**, 123(7). (SCI:Q2, Top, IF:3.971)<br><br>
+**Applied Physics Letters**, 123: 071101 (2023). (SCI:Q2, Top, IF:3.971)<br><br>
 <b>挑战</b>: 夏克-哈特曼传感器（SHWS）作为一种常用波前探测手段，具有精度高、速度快、系统简单等优点，广泛应用于天文探测等领域。然而，目前SHWS的标称精度通常采用某一标准波前来评定，无法给出针对任意测量波前的误差评定结果。 <br>
 <b>方法</b>: 提出基于物理光学传播的SHWS误差评定方法，通过物理光学模型分析12种误差源对波前测量精度的影响，并基于蒙特卡洛方法评估特定波前的测量不确定度。对三个实验测得波前（平面、球面、自由曲面）进行了测量不确定度评估，分别得到λ/65、λ/260和λ/40的评估结果。
 
@@ -56,7 +56,7 @@ Jichong Zhou†, `Qiaozhi He†`, Yuan Qu, et al. <br>
 
 <b>Anti-scattering light focusing by fast wavefront shaping based on multi-pixel encoded digital-micromirror device</b>. <a href="https://www.nature.com/articles/s41377-021-00591-w">[Web]</a> <a href="blob/pdf/LSA_2021.pdf">[PDF]</a> <br>
 Jiamiao Yang, `Qiaozhi He (学生一作)`, Linxian Liu, et al. <br>
-**Light: Science & Applications**, 10(1):149. (SCI:Q1, Top, IF:20.257)<br><br>
+**Light: Science & Applications**, 10(1): 149 (2021). (SCI:Q1, Top, IF:20.257)<br><br>
 <b>挑战</b>: 数字微镜阵列（DMD）同时具备数百万的调控模式数和几十kHz的刷新频率，是当前最有潜力实现快速高对比度抗散射光聚焦的光场调控器件。然而，DMD的二值化振幅调控特性导致其在优化聚焦光斑的过程中速度过慢且难以准确收敛。 <br>
 <b>方法</b>: 提出一种多像素编码方法来解决DMD调控离散度过大的问题，同时提出采用可分自然进化策略这一全局搜索算法从随机散射光中快速分离聚焦光斑。相比于传统二进制DMD光场调控技术，将聚焦光斑的优化速度提高了179倍，对比度提高了16倍。
 
@@ -68,44 +68,44 @@ Jiamiao Yang, `Qiaozhi He (学生一作)`, Linxian Liu, et al. <br>
 
 <b>Gradient-assisted focusing light through scattering media</b>. <a href="https://opg.optica.org/ol/fulltext.cfm?uri=ol-46-7-1518&id=449250">[Web]</a> <a href="blob/pdf/OL_2021.pdf">[PDF]</a> <br>
 Yanyu Zhao, `Qiaozhi He (学生一作)`, Shuna Li, et al. <br>
-**Optics Letters**, 46(7):1518-1521. (SCI:Q2, IF:3.56)<br><br>
+**Optics Letters**, 46(7): 1518-1521 (2021). (SCI:Q2, IF:3.56)<br><br>
 <b>挑战</b>: 透过散射介质聚焦光束是生物医学光学领域的一项长期挑战，基于反馈的波前整形方法是一种强有力的解决方案。当前广泛使用遗传算法作为迭代优化算法，然而，这种算法非常耗时，且难以实现高对比度聚焦光斑。<br>
 <b>方法</b>: 提出了一种基于梯度辅助波前整形策略的波前整形方法，该方法在Kullback-Leibler divergence散射来分析各像素相位的上升梯度，相比于遗传算法，此方法将光斑聚焦速度提高了 60 倍，其峰背比可达400。
  
 </div>
 </div>
 
-- `Qiaozhi He`, Qian Wang, Pengfei Lv, et al. Liquid photoacoustic sensing with high sensitivity by temperature compensated differential detection method. **Applied Physics Express**, 2020, 13(11): 117001. (IF:2.819) [[Web]](https://iopscience.iop.org/article/10.35848/1882-0786/abbd26/meta) [[PDF]](blob/pdf/APEX_2020.pdf)
+- `Qiaozhi He`, Qian Wang, Pengfei Lv, et al. Liquid photoacoustic sensing with high sensitivity by temperature compensated differential detection method. **Applied Physics Express**, 13(11): 117001 (2020). (IF:2.819) [[Web]](https://iopscience.iop.org/article/10.35848/1882-0786/abbd26/meta) [[PDF]](blob/pdf/APEX_2020.pdf)
 
-- `Qiaozhi He`, Qian Zhang, Wenwu Cao, et al. Detecting trace of mercury ions in water using photoacoustic method enhanced by gold nanospheres. **Microchemical Journal**, 2019, 150: 104058. (SCI:Q2, IF:5.304) [[Web]](https://www.sciencedirect.com/science/article/pii/S0026265X19304205) [[PDF]](blob/pdf/MJ_2019.pdf)
+- `Qiaozhi He`, Qian Zhang, Wenwu Cao, et al. Detecting trace of mercury ions in water using photoacoustic method enhanced by gold nanospheres. **Microchemical Journal**, 150: 104058 (2019). (SCI:Q2, IF:5.304) [[Web]](https://www.sciencedirect.com/science/article/pii/S0026265X19304205) [[PDF]](blob/pdf/MJ_2019.pdf)
 
-- Chunxu Ding, Rongjun Shao, Yuan Qu, `Qiaozhi He`, et al. Spatial Full Degree‐Of‐Freedom Scattered Optical Field Modulation. **Applied Physics Express**, 2023, Early Access. (SCI:Q1, Top, IF:10.947) [[Web]](https://onlinelibrary.wiley.com/doi/full/10.1002/lpor.202300104) 
+- Chunxu Ding, Rongjun Shao, Yuan Qu, `Qiaozhi He`, et al. Spatial Full Degree‐Of‐Freedom Scattered Optical Field Modulation. **Laser & Photonics Reviews**, Early Access (2023). (SCI:Q1, Top, IF:10.947) [[Web]](https://onlinelibrary.wiley.com/doi/full/10.1002/lpor.202300104) 
 
-- Xiaoqia Yin, Wei Tao, Yiyang Feng, Qiang Gao, `Qiaozhi He`, et al. Laser stripe extraction method in industrial environments utilizing self-adaptive convolution technique. **Applied Optics**, 2017, 56(10): 2653-2660. (IF:1.905) [[Web]](https://opg.optica.org/ao/fulltext.cfm?uri=ao-56-10-2653&id=361844)
+- Xiaoqia Yin, Wei Tao, Yiyang Feng, Qiang Gao, `Qiaozhi He`, et al. Laser stripe extraction method in industrial environments utilizing self-adaptive convolution technique. **Applied Optics**, 56(10): 2653-2660 (2017). (IF:1.905) [[Web]](https://opg.optica.org/ao/fulltext.cfm?uri=ao-56-10-2653&id=361844)
 
-- Rongjun Shao, Yuan Qu, Chunxu Ding, Kui Ma, Gaoyu Zou, `Qiaozhi He`, et al. Volumetric random-access multi-focus scanning based on fast light modulation. **Optics and Lasers in Engineering**, 2022, 158: 107128. (SCI:Q2, IF:5.666) [[Web]](https://www.sciencedirect.com/science/article/pii/S0143816622001804)
+- Rongjun Shao, Yuan Qu, Chunxu Ding, Kui Ma, Gaoyu Zou, `Qiaozhi He`, et al. Volumetric random-access multi-focus scanning based on fast light modulation. **Optics and Lasers in Engineering**, 158: 107128 (2022). (SCI:Q2, IF:5.666) [[Web]](https://www.sciencedirect.com/science/article/pii/S0143816622001804)
 
-- Linxian Liu, Wenjie Liang, Yuan Qu, `Qiaozhi He`, et al. Anti-scattering light focusing with full-polarization digital optical phase conjugation based on digital micromirror devices. **Optics Express**, 2022, 30(18): 31614-31622. (SCI:Q2, IF:3.833) [[Web]](https://opg.optica.org/oe/fulltext.cfm?uri=oe-30-18-31614&id=492009)
+- Linxian Liu, Wenjie Liang, Yuan Qu, `Qiaozhi He`, et al. Anti-scattering light focusing with full-polarization digital optical phase conjugation based on digital micromirror devices. **Optics Express**, 30(18): 31614-31622 (2022). (SCI:Q2, IF:3.833) [[Web]](https://opg.optica.org/oe/fulltext.cfm?uri=oe-30-18-31614&id=492009)
 
-- Linxian Liu, Chunxu Ding, Yuan Qu, `Qiaozhi He`, et al. Anti-scattering light focusing by full-polarization wavefront shaping based on digital micromirror devices. **Applied Physics Express**, 2022, 15(9): 092001. (IF:2.819) [[Web]](https://iopscience.iop.org/article/10.35848/1882-0786/ac851e/meta)
+- Linxian Liu, Chunxu Ding, Yuan Qu, `Qiaozhi He`, et al. Anti-scattering light focusing by full-polarization wavefront shaping based on digital micromirror devices. **Applied Physics Express**, 15(9): 092001 (2022). (IF:2.819) [[Web]](https://iopscience.iop.org/article/10.35848/1882-0786/ac851e/meta)
 
-- Gaoyu Zou, Rongjun Shao, Linxian Liu, `Qiaozhi He`, et al. Random-access multi-focus manipulation through superpixel-encoding wavefront engineering. **Applied Physics Express**, 2022, 15(11): 112004. (IF:2.819) [[Web]](https://iopscience.iop.org/article/10.35848/1882-0786/ac99b7/meta)
+- Gaoyu Zou, Rongjun Shao, Linxian Liu, `Qiaozhi He`, et al. Random-access multi-focus manipulation through superpixel-encoding wavefront engineering. **Applied Physics Express**, 15(11): 112004 (2022). (IF:2.819) [[Web]](https://iopscience.iop.org/article/10.35848/1882-0786/ac99b7/meta)
 
-- Linxian Liu, Kui Ma, Yuan Qu, `Qiaozhi He`, et al. High-contrast light focusing through scattering media with multi-pixel encoding. **Applied Physics Express**, 2021, 14(9): 092009. (IF:2.819) [[Web]](https://iopscience.iop.org/article/10.35848/1882-0786/ac200e/meta)
+- Linxian Liu, Kui Ma, Yuan Qu, `Qiaozhi He`, et al. High-contrast light focusing through scattering media with multi-pixel encoding. **Applied Physics Express**, 14(9): 092009 (2021). (IF:2.819) [[Web]](https://iopscience.iop.org/article/10.35848/1882-0786/ac200e/meta)
 
-- Xiaoqia Yin, Wei Tao, Chao Zheng, Hongwei Yang, `Qiaozhi He`, et al. Analysis and simplification of lens distortion model for the Scheimpflug imaging system calibration. **Optics Communications**, 2019, 430: 380-384. (IF:2.335) [[Web]](https://www.sciencedirect.com/science/article/abs/pii/S003040181830484X)
+- Xiaoqia Yin, Wei Tao, Chao Zheng, Hongwei Yang, `Qiaozhi He`, et al. Analysis and simplification of lens distortion model for the Scheimpflug imaging system calibration. **Optics Communications**, 430: 380-384 (2019). (IF:2.335) [[Web]](https://www.sciencedirect.com/science/article/abs/pii/S003040181830484X)
 
-- Xiaoqia Yin, Wei Tao, Yu Feng, Hongwei Yang, `Qiaozhi He`, et al. A robust and accurate breakpoint detection method for line-structured laser scanner. **Optics & Laser Technology**, 2019, 118: 52-61. (SCI:Q2, IF:4.939) [[Web]](https://www.sciencedirect.com/science/article/abs/pii/S0030399217317474)
+- Xiaoqia Yin, Wei Tao, Yu Feng, Hongwei Yang, `Qiaozhi He`, et al. A robust and accurate breakpoint detection method for line-structured laser scanner. **Optics & Laser Technology**, 118: 52-61 (2019). (SCI:Q2, IF:4.939) [[Web]](https://www.sciencedirect.com/science/article/abs/pii/S0030399217317474)
 
-- Wei Tao, Zhiqian Lu, `Qiaozhi He`, et al. Research on the temperature characteristics of the photoacoustic sensor of glucose solution. **Sensors**, 2018, 18(12): 4323. (IF:3.847) [[Web]](https://www.mdpi.com/1424-8220/18/12/4323)
+- Wei Tao, Zhiqian Lu, `Qiaozhi He`, et al. Research on the temperature characteristics of the photoacoustic sensor of glucose solution. **Sensors**, 18(12): 4323 (2018). (IF:3.847) [[Web]](https://www.mdpi.com/1424-8220/18/12/4323)
 
-- Ting Yin, Qian Zhang, Haigang Wu, Guo Gao, Joseph G Shapter, Yulan Shen, `Qiaozhi He`, et al. In vivo high-efficiency targeted photodynamic therapy of ultra-small Fe3O4@ polymer-NPO/PEG-Glc@ Ce6 nanoprobes based on small size effect. **NPG Asia Materials**, 2017, 9(5): e383. (SCI:Q2, IF:10.761) [[Web]](https://www.nature.com/articles/am201768)
+- Ting Yin, Qian Zhang, Haigang Wu, Guo Gao, Joseph G Shapter, Yulan Shen, `Qiaozhi He`, et al. In vivo high-efficiency targeted photodynamic therapy of ultra-small Fe3O4@ polymer-NPO/PEG-Glc@ Ce6 nanoprobes based on small size effect. **NPG Asia Materials**, 9(5): e383 (2017). (SCI:Q2, IF:10.761) [[Web]](https://www.nature.com/articles/am201768)
 
-- Ting Yin, Haigang Wu, Qian Zhang, Guo Gao, Joseph G. Shapter, Yulan Shen, `Qiaozhi He`, et al. In vivo targeted therapy of gastric tumors via the mechanical rotation of a flower-like Fe3O4@ Au nanoprobe under an alternating magnetic field. **NPG Asia Materials**, 2017, 9(7): e408. (SCI:Q2, IF:10.761) [[Web]](https://www.nature.com/articles/am2017117)
+- Ting Yin, Haigang Wu, Qian Zhang, Guo Gao, Joseph G. Shapter, Yulan Shen, `Qiaozhi He`, et al. In vivo targeted therapy of gastric tumors via the mechanical rotation of a flower-like Fe3O4@ Au nanoprobe under an alternating magnetic field. **NPG Asia Materials**, 9(7): e408 (2017). (SCI:Q2, IF:10.761) [[Web]](https://www.nature.com/articles/am2017117)
 
-- Siwei Zhao, Wei Tao, `Qiaozhi He`, et al. A non-invasive photoacoustic and ultrasonic method for the measurement of glucose solution concentration. **AIP Advances**, 2017, 7(3): 035313. (IF:1.697) [[Web]](https://pubs.aip.org/aip/adv/article/7/3/035313/1023711)
+- Siwei Zhao, Wei Tao, `Qiaozhi He`, et al. A non-invasive photoacoustic and ultrasonic method for the measurement of glucose solution concentration. **AIP Advances**, 7(3): 035313 (2017). (IF:1.697) [[Web]](https://pubs.aip.org/aip/adv/article/7/3/035313/1023711)
 
-- Siwei Zhao, Wei Tao, `Qiaozhi He`, et al Glucose solution determination based on liquid photoacoustic resonance. **Applied optics**, 2017, 56(2): 193-199. (IF:1.905) [[Web]](https://opg.optica.org/ao/abstract.cfm?uri=ao-56-2-193)
+- Siwei Zhao, Wei Tao, `Qiaozhi He`, et al Glucose solution determination based on liquid photoacoustic resonance. **Applied optics**, 56(2): 193-199 (2017). (IF:1.905) [[Web]](https://opg.optica.org/ao/abstract.cfm?uri=ao-56-2-193)
 
 
 ### 投稿论文 (`*`表示通信作者, `†`表示共同一作)
