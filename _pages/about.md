@@ -44,7 +44,7 @@ redirect_from:
 
 <b>Arbitrary wavefront uncertainty evaluation for the Shack-Hartmann wavefront sensor using physical optics propagation</b>. <a href="https://pubs.aip.org/aip/apl/article/123/7/071102/2906681/Arbitrary-wavefront-uncertainty-evaluation-for-the">[Web]</a> <a href="blob/pdf/APL_2023.pdf">[PDF]</a> <br>
 Jichong Zhou†, `Qiaozhi He†`, Yuan Qu, et al. <br>
-**Applied Physics Letters**, 123: 071101 (2023). (SCI:Q2, Top, IF:3.971)<br><br>
+**Applied Physics Letters**, 123: 071102 (2023). (SCI:Q2, Top, IF:3.971)<br><br>
 <b>挑战</b>: 夏克-哈特曼传感器（SHWS）作为一种常用波前探测手段，具有精度高、速度快、系统简单等优点，广泛应用于天文探测等领域。然而，目前SHWS的标称精度通常采用某一标准波前来评定，无法给出针对任意测量波前的误差评定结果。 <br>
 <b>方法</b>: 提出基于物理光学传播的SHWS误差评定方法，通过物理光学模型分析12种误差源对波前测量精度的影响，并基于蒙特卡洛方法评估特定波前的测量不确定度。对三个实验测得波前（平面、球面、自由曲面）进行了测量不确定度评估，分别得到λ/65、λ/260和λ/40的评估结果。
 
