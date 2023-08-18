@@ -6,12 +6,6 @@ main:
   - title: "学术动态"
     url: "/#-xsdt"
 
-  - title: "论文专利"
-    url: "/#-lwzl"
-
-  - title: "科研项目"
-    url: "/#-kyxm"
-
   - title: "工作服务"
     url: "/#-gzfw"
 
@@ -20,3 +14,9 @@ main:
 
   - title: "荣誉奖项"
     url: "/#-ryjx"
+
+  - title: "论文专利"
+    url: "/#-lwzl"
+
+  - title: "科研项目"
+    url: "/#-kyxm"
