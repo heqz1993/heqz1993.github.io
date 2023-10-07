@@ -25,10 +25,10 @@ redirect_from:
 <span class='anchor' id='-xsdt'></span>
 
 # 📣 学术动态
+- *2023.10*: &nbsp;🎉🎉 相位偏折术相关研究被 Optics Express 接收
 - *2023.09*: &nbsp;🎉🎉 超高清全息三维显示相关研究被 Science 子刊 Science Advances 接收
 - *2023.08*: &nbsp;🎉🎉 夏克-哈特曼波前传感相关研究被中科院 Top 期刊 Applied Physics Letters 接收
 - *2023.07*: &nbsp; 参加 2023 中国光学学会学术大会（口头报告）
-- *2023.07*: &nbsp;🎉🎉 散射全光场全息显示相关研究被中科院 1 区 Top 期刊 Lasers & Photonics Review 接收
 
 <span class='anchor' id='-gzfw'></span>
 
@@ -97,6 +97,17 @@ Jichong Zhou†, `Qiaozhi He†`, Yuan Qu, et al. <br>
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Opt. Express</div><img src='blob/png/OE_2023.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<b>Multi-field stitching phase measuring deflectometry for freeform specular surface measurement</b>. <br>
+Siyuan Jiang†, `Qiaozhi He†`, Yifan Xing, et al. <br>
+**Optics Express** (中科院 2 区, IF:3.833)<br><br>
+<b>挑战</b>: 相位偏折术具有非零检测、测量精度高和系统简单等显著优势，被广泛应用于镜面元件的精密检测。然而，当测量自由曲面等局部斜度较大的表面时，被测表面的反射光线非常分散，容易超过相机的接收范围，从而导致测量失败。<br>
+<b>方法</b>: 提出一种基于多视场拼接的相位偏折术，利用放置于不同位置的多个相机拍摄被测件不同区域所反射的扭曲条纹，将每个相机、屏幕与被测表面作为一个独立的相位偏折术系统测量不同区域的三维形貌，继而将各区域形貌高精度拼接起来，从而实现自由曲面元件的精密检测。此方法实现了155.04 mm曲率半径的标准球面镜、局部斜率从-46.1°至51.3°的手机曲面屏以及局部斜率从-6.7°至7.7°的自由曲面亚克力板的测量，检测精度达到5.3 µm。
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Opt. Lett.</div><img src='blob/png/OL_2021.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -144,19 +155,6 @@ Yanyu Zhao, `Qiaozhi He (学生一作)`, Shuna Li, et al. <br>
 
 ### 投稿论文 (`*`表示通信作者, `†`表示共同一作)
 ---
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submit to Opt. Express</div><img src='blob/png/OE_2023.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<b>Multi-field stitching phase measuring deflectometry for freeform specular surface measurement</b>. <br>
-Siyuan Jiang†, `Qiaozhi He†`, Yifan Xing, et al. <br>
-**Optics Express** (中科院 2 区, IF:3.833)<br><br>
-<b>挑战</b>: 相位偏折术具有非零检测、测量精度高和系统简单等显著优势，被广泛应用于镜面元件的精密检测。然而，当测量自由曲面等局部斜度较大的表面时，被测表面的反射光线非常分散，容易超过相机的接收范围，从而导致测量失败。<br>
-<b>方法</b>: 提出一种基于多视场拼接的相位偏折术，利用放置于不同位置的多个相机拍摄被测件不同区域所反射的扭曲条纹，将每个相机、屏幕与被测表面作为一个独立的相位偏折术系统测量不同区域的三维形貌，继而将各区域形貌高精度拼接起来，从而实现自由曲面元件的精密检测。此方法实现了155.04 mm曲率半径的标准球面镜、局部斜率从-46.1°至51.3°的手机曲面屏以及局部斜率从-6.7°至7.7°的自由曲面亚克力板的测量，检测精度达到5.3 µm。
-
-</div>
-</div>
-
 
 -	`Qiaozhi He`, Rongjun Shao, Yuan Qu, et al. Complex transmission matrix retrieval for highly scattering medium via regional phase differentiation. **PhotoniX**, Submitted. (SCI:Q1, Top, IF:19.818)
 
