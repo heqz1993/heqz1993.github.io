@@ -25,6 +25,7 @@ redirect_from:
 <span class='anchor' id='-xsdt'></span>
 
 # 📣 学术动态
+- *2023.12*: &nbsp;🎉🎉 夏克-哈德曼波前传感相关研究被中国科技期刊卓越行动计划高起点新刊 Light: Advanced Manufacturing 接收
 - *2023.10*: &nbsp;🎉🎉 相位偏折术相关研究被 Optics Express 接收
 - *2023.09*: &nbsp;🎉🎉 超高清全息三维显示相关研究被 Science 子刊 Science Advances 接收
 - *2023.08*: &nbsp;🎉🎉 夏克-哈特曼波前传感相关研究被中科院 Top 期刊 Applied Physics Letters 接收
@@ -58,7 +59,7 @@ redirect_from:
 
 # 📝 论文专利
 
-### 发表论文 (`†`表示共同一作)
+### 发表论文 (`†`表示共同一作, `*`表示通信作者)
 ---
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sci. Adv.</div><img src='blob/png/SA_2023.jpg' alt="sym" width="100%"></div></div>
@@ -73,7 +74,7 @@ Jiamiao Yang†, Lei S. Li†, `Qiaozhi He†`, et al. <br>
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Light Sci. Appl.</div><img src='blob/png/LSA_2021.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Light: Sci. Appl.</div><img src='blob/png/LSA_2021.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <b>Anti-scattering light focusing by fast wavefront shaping based on multi-pixel encoded digital-micromirror device</b>. <a href="https://www.nature.com/articles/s41377-021-00591-w">[Web]</a> <a href="blob/pdf/LSA_2021.pdf">[PDF]</a> <br>
@@ -94,6 +95,17 @@ Jichong Zhou†, `Qiaozhi He†`, Yuan Qu, et al. <br>
 <b>挑战</b>: 夏克-哈特曼传感器（SHWS）作为一种常用波前探测手段，具有精度高、速度快、系统简单等优点，广泛应用于天文探测等领域。然而，目前SHWS的标称精度通常采用某一标准波前来评定，无法给出针对任意测量波前的误差评定结果。 <br>
 <b>方法</b>: 提出基于物理光学传播的SHWS误差评定方法，通过物理光学模型分析12种误差源对波前测量精度的影响，并基于蒙特卡洛方法评估特定波前的测量不确定度。对三个实验测得波前（平面、球面、自由曲面）进行了测量不确定度评估，分别得到λ/65、λ/260和λ/40的评估结果。
 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Light: Adv. Manuf.</div><img src='blob/png/LAM_2023.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<b>Large dynamic range Shack-Hartmann wavefront sensor based on spot adaptive matching</b>. 
+Jiamiao Yang†, Jichong Zhou†, `Qiaozhi He*`, et al. <br>
+**Light: Advanced Manufacturing**, Accepted. (中国科技期刊卓越行动计划高起点新刊)<br><br>
+<b>挑战</b>: 夏克-哈特曼传感器（SHWS）是一种高速、精确、稳定的波前测量技术。然而，传统的SHWS存在一个限制，即每个微透镜的聚焦光斑被限制在单个微透镜内，导致动态范围受限，并且在存在缺失点的情况下无法完成检测。 <br>
+<b>方法</b>: 提出一种基于自适应斑点匹配(ASM)的大动态范围SHWS，通过最近距离匹配策略寻找最匹配检测到的斑点分布的入射波前，从而实现全局光斑匹配，显著扩大了动态范围。实验表明，在12.5%光斑缺失情况下，ASM-SHWS可以测量到局部斜率为204.97 mrad的高曲率球面波前，比传统SHWS高出14.81倍。
 </div>
 </div>
 
@@ -124,7 +136,9 @@ Yanyu Zhao, `Qiaozhi He (学生一作)`, Shuna Li, et al. <br>
 - `Qiaozhi He`, Qian Zhang, Wenwu Cao, et al. Detecting trace of mercury ions in water using photoacoustic method enhanced by gold nanospheres. **Microchemical Journal**, 150: 104058 (2019). (中科院 2 区, IF:5.304) [[Web]](https://www.sciencedirect.com/science/article/pii/S0026265X19304205) [[PDF]](blob/pdf/MJ_2019.pdf)
 - `Qiaozhi He`, Qian Wang, Pengfei Lv, et al. Liquid photoacoustic sensing with high sensitivity by temperature compensated differential detection method. **Applied Physics Express**, 13(11): 117001 (2020). (IF:2.819) [[Web]](https://iopscience.iop.org/article/10.35848/1882-0786/abbd26/meta) [[PDF]](blob/pdf/APEX_2020.pdf)
 
-- Chunxu Ding, Rongjun Shao, Yuan Qu, `Qiaozhi He`, et al. Spatial Full Degree‐Of‐Freedom Scattered Optical Field Modulation. **Laser & Photonics Reviews**, Early Access (2023). (中科院 1 区, Top, IF:10.947) [[Web]](https://onlinelibrary.wiley.com/doi/full/10.1002/lpor.202300104) 
+- Rongjun Shao†, Chunxu Ding, Yuan Qu, Linxian Liu, `Qiaozhi He`, et al. Spatial full degree-of-freedom angular spectrum modeling of scattered light modulation, **Photonics Research**, Accepted. (SCI:Q1, Top, IF:7.254) 
+
+- Chunxu Ding†, Rongjun Shao†, Yuan Qu, `Qiaozhi He`, et al. Spatial Full Degree‐Of‐Freedom Scattered Optical Field Modulation. **Laser & Photonics Reviews**, Early Access (2023). (中科院 1 区, Top, IF:10.947) [[Web]](https://onlinelibrary.wiley.com/doi/full/10.1002/lpor.202300104) 
 
 - Linxian Liu, Wenjie Liang, Yuan Qu, `Qiaozhi He`, et al. Anti-scattering light focusing with full-polarization digital optical phase conjugation based on digital micromirror devices. **Optics Express**, 30(18): 31614-31622 (2022). (中科院 2 区, IF:3.833) [[Web]](https://opg.optica.org/oe/fulltext.cfm?uri=oe-30-18-31614&id=492009)
 
@@ -153,15 +167,11 @@ Yanyu Zhao, `Qiaozhi He (学生一作)`, Shuna Li, et al. <br>
 - Siwei Zhao, Wei Tao, `Qiaozhi He`, et al Glucose solution determination based on liquid photoacoustic resonance. **Applied optics**, 56(2): 193-199 (2017). (IF:1.905) [[Web]](https://opg.optica.org/ao/abstract.cfm?uri=ao-56-2-193)
 
 
-### 投稿论文 (`*`表示通信作者, `†`表示共同一作)
+### 投稿论文 (`†`表示共同一作)
 ---
+-	`Qiaozhi He`, Rongjun Shao, Yuan Qu, et al. Complex transmission matrix retrieval for highly scattering medium via regional phase differentiation. **Photonics Research**, Under review. (SCI:Q1, Top, IF:7.254)
 
--	`Qiaozhi He`, Rongjun Shao, Yuan Qu, et al. Complex transmission matrix retrieval for highly scattering medium via regional phase differentiation. **PhotoniX**, Submitted. (SCI:Q1, Top, IF:19.818)
-
-- Jiamiao Yang, Jichong Zhou, Yuan Qu, Rongjun Shao, `Qiaozhi He*`. Large dynamic range Shack-Hartmann wavefront sensor based on spot adaptive matching, **Light: Advanced Manufacturing**, Submitted. (SCI:Q2, IF:3.833) 
-
-- Chunxu Ding, Rongjun Shao, Yuan Qu, Linxian Liu, `Qiaozhi He`, et al. Spatial full degree-of-freedom angular spectrum modeling of scattered light modulation, **Photonics Research**, Submitted. (SCI:Q1, Top, IF:7.254) 
-
+- Rongjun Shao, Chunxu Ding, Linxian Liu, `Qiaozhi He`, et al. High-fidelity multi-channel optical information transmission through scattering media. **Optics Express**, Under review. (中科院 2 区, IF:3.833)
 
 ### 发明专利
 ---
