@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-何巧芝，工学博士，助理研究员。本科毕业于<a href = "http://mse.hust.edu.cn/">华中科技大学机械科学与工程学院</a>，后推免直博于<a href = "https://www.seiee.sjtu.edu.cn/">上海交通大学电子信息与电气学院</a>，期间赴<a href = "https://www.psu.edu/">美国宾夕法尼亚州立大学</a>公派留学。2022年入职<a href = "https://ime.sjtu.edu.cn/">上海交通大学海洋装备研究院</a>，加入<a href = "https://juopt.sjtu.edu.cn/">智能光电感知研究所</a>，从事光场调控、光学检测等方面研究，并对计算光学、智能感知等方向有浓厚兴趣，迄今已在 Light Sci. Appl.、Laser Photonics Rev.、Opt. Lett.、Appl. Phys. Lett. 等知名SCI期刊发表论文20余篇
+何巧芝，工学博士，助理研究员。本科毕业于<a href = "http://mse.hust.edu.cn/">华中科技大学机械科学与工程学院</a>，后推免直博于<a href = "https://www.seiee.sjtu.edu.cn/">上海交通大学电子信息与电气学院</a>，期间赴<a href = "https://www.psu.edu/">美国宾夕法尼亚州立大学</a>公派留学。2022年入职<a href = "https://ime.sjtu.edu.cn/">上海交通大学海洋装备研究院</a>，加入<a href = "https://juopt.sjtu.edu.cn/">智能光电感知研究所</a>，从事光场调控、光学检测等方面研究，并对计算光学、智能感知等方向有浓厚兴趣，迄今已在 Science Advances、Light Sci. Appl.、Laser Photonics Rev.、Opt. Lett.、Appl. Phys. Lett. 等知名SCI期刊发表论文20余篇
  <a href='https://scholar.google.com/citations?user=Rm2lL78AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>，申请国家发明专利20余项（已授权5项）。
 
 研究方向：散射光场调控、波前检测、精密光学检测
