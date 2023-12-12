@@ -65,7 +65,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sci. Adv.</div><img src='blob/png/SA_2023.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-1. <b>An ultrahigh fidelity 3D holographic display using scattering to homogenize the angular spectrum</b>. <br>
+<b>An ultrahigh fidelity 3D holographic display using scattering to homogenize the angular spectrum</b>. <br>
 Jiamiao Yang†, Lei S. Li†, `Qiaozhi He†`, et al. <br>
 **Science Advances** (中科院 1 区, Top, IF:14.956)<br><br>
 <b>挑战</b>: 全息三维显示技术（3DHD）能够准确复现物体三维信息，使人们裸眼即可观看与现实物体一样逼真的三维图像，被认为是三维显示的终极形态。然而，当前3DHD的保真度非常低，限制了它的进一步应用。<br>
@@ -77,7 +77,7 @@ Jiamiao Yang†, Lei S. Li†, `Qiaozhi He†`, et al. <br>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Light: Sci. Appl.</div><img src='blob/png/LSA_2021.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-2. <b>Anti-scattering light focusing by fast wavefront shaping based on multi-pixel encoded digital-micromirror device</b>. <a href="https://www.nature.com/articles/s41377-021-00591-w">[Web]</a> <a href="blob/pdf/LSA_2021.pdf">[PDF]</a> <br>
+<b>Anti-scattering light focusing by fast wavefront shaping based on multi-pixel encoded digital-micromirror device</b>. <a href="https://www.nature.com/articles/s41377-021-00591-w">[Web]</a> <a href="blob/pdf/LSA_2021.pdf">[PDF]</a> <br>
 Jiamiao Yang, `Qiaozhi He (学生一作)`, Linxian Liu, et al. <br>
 **Light: Science & Applications**, 10(1): 149 (2021). (中科院 1 区, Top, IF:20.257)<br><br>
 <b>挑战</b>: 数字微镜阵列（DMD）同时具备数百万的调控模式数和几十kHz的刷新频率，是当前最有潜力实现快速高对比度抗散射光聚焦的光场调控器件。然而，DMD的二值化振幅调控特性导致其在优化聚焦光斑的过程中速度过慢且难以准确收敛。 <br>
@@ -89,7 +89,7 @@ Jiamiao Yang, `Qiaozhi He (学生一作)`, Linxian Liu, et al. <br>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Appl. Phys. Lett.</div><img src='blob/png/APL_2023.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-3. <b>Arbitrary wavefront uncertainty evaluation for the Shack-Hartmann wavefront sensor using physical optics propagation</b>. <a href="https://pubs.aip.org/aip/apl/article/123/7/071102/2906681/Arbitrary-wavefront-uncertainty-evaluation-for-the">[Web]</a> <a href="blob/pdf/APL_2023.pdf">[PDF]</a> <br>
+<b>Arbitrary wavefront uncertainty evaluation for the Shack-Hartmann wavefront sensor using physical optics propagation</b>. <a href="https://pubs.aip.org/aip/apl/article/123/7/071102/2906681/Arbitrary-wavefront-uncertainty-evaluation-for-the">[Web]</a> <a href="blob/pdf/APL_2023.pdf">[PDF]</a> <br>
 Jichong Zhou†, `Qiaozhi He†`, Yuan Qu, et al. <br>
 **Applied Physics Letters**, 123: 071102 (2023). (中科院 2 区, Top, IF:3.971)<br><br>
 <b>挑战</b>: 夏克-哈特曼传感器（SHWS）作为一种常用波前探测手段，具有精度高、速度快、系统简单等优点，广泛应用于天文探测等领域。然而，目前SHWS的标称精度通常采用某一标准波前来评定，无法给出针对任意测量波前的误差评定结果。 <br>
@@ -101,7 +101,7 @@ Jichong Zhou†, `Qiaozhi He†`, Yuan Qu, et al. <br>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Light: Adv. Manuf.</div><img src='blob/png/LAM_2023.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-4. <b>Large dynamic range Shack-Hartmann wavefront sensor based on spot adaptive matching</b>. 
+<b>Large dynamic range Shack-Hartmann wavefront sensor based on spot adaptive matching</b>. 
 Jiamiao Yang†, Jichong Zhou†, `Qiaozhi He*`, et al. <br>
 **Light: Advanced Manufacturing**, Accepted. (中国科技期刊卓越行动计划高起点新刊)<br><br>
 <b>挑战</b>: 夏克-哈特曼传感器（SHWS）是一种高速、精确、稳定的波前测量技术。然而，传统的SHWS存在一个限制，即每个微透镜的聚焦光斑被限制在单个微透镜内，导致动态范围受限，并且在存在缺失点的情况下无法完成检测。 <br>
@@ -112,7 +112,7 @@ Jiamiao Yang†, Jichong Zhou†, `Qiaozhi He*`, et al. <br>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Opt. Express</div><img src='blob/png/OE_2023.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-5. <b>Multi-field stitching phase measuring deflectometry for freeform specular surface measurement</b>. <br>
+<b>Multi-field stitching phase measuring deflectometry for freeform specular surface measurement</b>. <br>
 Siyuan Jiang†, `Qiaozhi He†`, Yifan Xing, et al. <br>
 **Optics Express** (中科院 2 区, IF:3.833)<br><br>
 <b>挑战</b>: 相位偏折术具有非零检测、测量精度高和系统简单等显著优势，被广泛应用于镜面元件的精密检测。然而，当测量自由曲面等局部斜度较大的表面时，被测表面的反射光线非常分散，容易超过相机的接收范围，从而导致测量失败。<br>
@@ -121,7 +121,7 @@ Siyuan Jiang†, `Qiaozhi He†`, Yifan Xing, et al. <br>
 </div>
 </div>
 
-6. <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Opt. Lett.</div><img src='blob/png/OL_2021.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Opt. Lett.</div><img src='blob/png/OL_2021.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <b>Gradient-assisted focusing light through scattering media</b>. <a href="https://opg.optica.org/ol/fulltext.cfm?uri=ol-46-7-1518&id=449250">[Web]</a> <a href="blob/pdf/OL_2021.pdf">[PDF]</a> <br>
@@ -133,78 +133,78 @@ Yanyu Zhao, `Qiaozhi He (学生一作)`, Shuna Li, et al. <br>
 </div>
 </div>
 
-7. `Qiaozhi He`, Qian Zhang, Wenwu Cao, et al. Detecting trace of mercury ions in water using photoacoustic method enhanced by gold nanospheres. **Microchemical Journal**, 150: 104058 (2019). (中科院 2 区, IF:5.304) [[Web]](https://www.sciencedirect.com/science/article/pii/S0026265X19304205) [[PDF]](blob/pdf/MJ_2019.pdf)
-8. `Qiaozhi He`, Qian Wang, Pengfei Lv, et al. Liquid photoacoustic sensing with high sensitivity by temperature compensated differential detection method. **Applied Physics Express**, 13(11): 117001 (2020). (IF:2.819) [[Web]](https://iopscience.iop.org/article/10.35848/1882-0786/abbd26/meta) [[PDF]](blob/pdf/APEX_2020.pdf)
+- `Qiaozhi He`, Qian Zhang, Wenwu Cao, et al. Detecting trace of mercury ions in water using photoacoustic method enhanced by gold nanospheres. **Microchemical Journal**, 150: 104058 (2019). (中科院 2 区, IF:5.304) [[Web]](https://www.sciencedirect.com/science/article/pii/S0026265X19304205) [[PDF]](blob/pdf/MJ_2019.pdf)
+- `Qiaozhi He`, Qian Wang, Pengfei Lv, et al. Liquid photoacoustic sensing with high sensitivity by temperature compensated differential detection method. **Applied Physics Express**, 13(11): 117001 (2020). (IF:2.819) [[Web]](https://iopscience.iop.org/article/10.35848/1882-0786/abbd26/meta) [[PDF]](blob/pdf/APEX_2020.pdf)
 
-9. Rongjun Shao†, Chunxu Ding, Yuan Qu, Linxian Liu, `Qiaozhi He`, et al. Spatial full degree-of-freedom angular spectrum modeling of scattered light modulation, **Photonics Research**, Accepted. (SCI:Q1, Top, IF:7.254) 
+- Rongjun Shao†, Chunxu Ding, Yuan Qu, Linxian Liu, `Qiaozhi He`, et al. Spatial full degree-of-freedom angular spectrum modeling of scattered light modulation, **Photonics Research**, Accepted. (SCI:Q1, Top, IF:7.254) 
 
-10. Chunxu Ding†, Rongjun Shao†, Yuan Qu, `Qiaozhi He`, et al. Spatial Full Degree‐Of‐Freedom Scattered Optical Field Modulation. **Laser & Photonics Reviews**, 17(9): 2300104 (2023). (中科院 1 区, Top, IF:10.947) [[Web]](https://onlinelibrary.wiley.com/doi/full/10.1002/lpor.202300104) 
+- Chunxu Ding†, Rongjun Shao†, Yuan Qu, `Qiaozhi He`, et al. Spatial Full Degree‐Of‐Freedom Scattered Optical Field Modulation. **Laser & Photonics Reviews**, 17(9): 2300104 (2023). (中科院 1 区, Top, IF:10.947) [[Web]](https://onlinelibrary.wiley.com/doi/full/10.1002/lpor.202300104) 
 
-11. Linxian Liu, Wenjie Liang, Yuan Qu, `Qiaozhi He`, et al. Anti-scattering light focusing with full-polarization digital optical phase conjugation based on digital micromirror devices. **Optics Express**, 30(18): 31614-31622 (2022). (中科院 2 区, IF:3.833) [[Web]](https://opg.optica.org/oe/fulltext.cfm?uri=oe-30-18-31614&id=492009)
+- Linxian Liu, Wenjie Liang, Yuan Qu, `Qiaozhi He`, et al. Anti-scattering light focusing with full-polarization digital optical phase conjugation based on digital micromirror devices. **Optics Express**, 30(18): 31614-31622 (2022). (中科院 2 区, IF:3.833) [[Web]](https://opg.optica.org/oe/fulltext.cfm?uri=oe-30-18-31614&id=492009)
 
-12. Rongjun Shao, Yuan Qu, Chunxu Ding, Kui Ma, Gaoyu Zou, `Qiaozhi He`, et al. Volumetric random-access multi-focus scanning based on fast light modulation. **Optics and Lasers in Engineering**, 158: 107128 (2022). (中科院 2 区, IF:5.666) [[Web]](https://www.sciencedirect.com/science/article/pii/S0143816622001804)
+- Rongjun Shao, Yuan Qu, Chunxu Ding, Kui Ma, Gaoyu Zou, `Qiaozhi He`, et al. Volumetric random-access multi-focus scanning based on fast light modulation. **Optics and Lasers in Engineering**, 158: 107128 (2022). (中科院 2 区, IF:5.666) [[Web]](https://www.sciencedirect.com/science/article/pii/S0143816622001804)
 
-13. Xiaoqia Yin, Wei Tao, Yiyang Feng, Qiang Gao, `Qiaozhi He`, et al. Laser stripe extraction method in industrial environments utilizing self-adaptive convolution technique. **Applied Optics**, 56(10): 2653-2660 (2017). (IF:1.905) [[Web]](https://opg.optica.org/ao/fulltext.cfm?uri=ao-56-10-2653&id=361844)
+- Xiaoqia Yin, Wei Tao, Yiyang Feng, Qiang Gao, `Qiaozhi He`, et al. Laser stripe extraction method in industrial environments utilizing self-adaptive convolution technique. **Applied Optics**, 56(10): 2653-2660 (2017). (IF:1.905) [[Web]](https://opg.optica.org/ao/fulltext.cfm?uri=ao-56-10-2653&id=361844)
 
-14. Linxian Liu, Chunxu Ding, Yuan Qu, `Qiaozhi He`, et al. Anti-scattering light focusing by full-polarization wavefront shaping based on digital micromirror devices. **Applied Physics Express**, 15(9): 092001 (2022). (IF:2.819) [[Web]](https://iopscience.iop.org/article/10.35848/1882-0786/ac851e/meta)
+- Linxian Liu, Chunxu Ding, Yuan Qu, `Qiaozhi He`, et al. Anti-scattering light focusing by full-polarization wavefront shaping based on digital micromirror devices. **Applied Physics Express**, 15(9): 092001 (2022). (IF:2.819) [[Web]](https://iopscience.iop.org/article/10.35848/1882-0786/ac851e/meta)
 
-15. Gaoyu Zou, Rongjun Shao, Linxian Liu, `Qiaozhi He`, et al. Random-access multi-focus manipulation through superpixel-encoding wavefront engineering. **Applied Physics Express**, 15(11): 112004 (2022). (IF:2.819) [[Web]](https://iopscience.iop.org/article/10.35848/1882-0786/ac99b7/meta)
+- Gaoyu Zou, Rongjun Shao, Linxian Liu, `Qiaozhi He`, et al. Random-access multi-focus manipulation through superpixel-encoding wavefront engineering. **Applied Physics Express**, 15(11): 112004 (2022). (IF:2.819) [[Web]](https://iopscience.iop.org/article/10.35848/1882-0786/ac99b7/meta)
 
-16. Linxian Liu, Kui Ma, Yuan Qu, `Qiaozhi He`, et al. High-contrast light focusing through scattering media with multi-pixel encoding. **Applied Physics Express**, 14(9): 092009 (2021). (IF:2.819) [[Web]](https://iopscience.iop.org/article/10.35848/1882-0786/ac200e/meta)
+- Linxian Liu, Kui Ma, Yuan Qu, `Qiaozhi He`, et al. High-contrast light focusing through scattering media with multi-pixel encoding. **Applied Physics Express**, 14(9): 092009 (2021). (IF:2.819) [[Web]](https://iopscience.iop.org/article/10.35848/1882-0786/ac200e/meta)
 
-17. Ting Yin, Qian Zhang, Haigang Wu, Guo Gao, Joseph G Shapter, Yulan Shen, `Qiaozhi He`, et al. In vivo high-efficiency targeted photodynamic therapy of ultra-small Fe3O4@ polymer-NPO/PEG-Glc@ Ce6 nanoprobes based on small size effect. **NPG Asia Materials**, 9(5): e383 (2017). (中科院 2 区, IF:10.761) [[Web]](https://www.nature.com/articles/am201768)
+- Ting Yin, Qian Zhang, Haigang Wu, Guo Gao, Joseph G Shapter, Yulan Shen, `Qiaozhi He`, et al. In vivo high-efficiency targeted photodynamic therapy of ultra-small Fe3O4@ polymer-NPO/PEG-Glc@ Ce6 nanoprobes based on small size effect. **NPG Asia Materials**, 9(5): e383 (2017). (中科院 2 区, IF:10.761) [[Web]](https://www.nature.com/articles/am201768)
 
-18. Ting Yin, Haigang Wu, Qian Zhang, Guo Gao, Joseph G. Shapter, Yulan Shen, `Qiaozhi He`, et al. In vivo targeted therapy of gastric tumors via the mechanical rotation of a flower-like Fe3O4@ Au nanoprobe under an alternating magnetic field. **NPG Asia Materials**, 9(7): e408 (2017). (中科院 2 区, IF:10.761) [[Web]](https://www.nature.com/articles/am2017117)
+- Ting Yin, Haigang Wu, Qian Zhang, Guo Gao, Joseph G. Shapter, Yulan Shen, `Qiaozhi He`, et al. In vivo targeted therapy of gastric tumors via the mechanical rotation of a flower-like Fe3O4@ Au nanoprobe under an alternating magnetic field. **NPG Asia Materials**, 9(7): e408 (2017). (中科院 2 区, IF:10.761) [[Web]](https://www.nature.com/articles/am2017117)
 
-19. Xiaoqia Yin, Wei Tao, Chao Zheng, Hongwei Yang, `Qiaozhi He`, et al. Analysis and simplification of lens distortion model for the Scheimpflug imaging system calibration. **Optics Communications**, 430: 380-384 (2019). (IF:2.335) [[Web]](https://www.sciencedirect.com/science/article/abs/pii/S003040181830484X)
+- Xiaoqia Yin, Wei Tao, Chao Zheng, Hongwei Yang, `Qiaozhi He`, et al. Analysis and simplification of lens distortion model for the Scheimpflug imaging system calibration. **Optics Communications**, 430: 380-384 (2019). (IF:2.335) [[Web]](https://www.sciencedirect.com/science/article/abs/pii/S003040181830484X)
 
-20. Xiaoqia Yin, Wei Tao, Yu Feng, Hongwei Yang, `Qiaozhi He`, et al. A robust and accurate breakpoint detection method for line-structured laser scanner. **Optics & Laser Technology**, 118: 52-61 (2019). (中科院 2 区, IF:4.939) [[Web]](https://www.sciencedirect.com/science/article/abs/pii/S0030399217317474)
+- Xiaoqia Yin, Wei Tao, Yu Feng, Hongwei Yang, `Qiaozhi He`, et al. A robust and accurate breakpoint detection method for line-structured laser scanner. **Optics & Laser Technology**, 118: 52-61 (2019). (中科院 2 区, IF:4.939) [[Web]](https://www.sciencedirect.com/science/article/abs/pii/S0030399217317474)
 
-21. Wei Tao, Zhiqian Lu, `Qiaozhi He`, et al. Research on the temperature characteristics of the photoacoustic sensor of glucose solution. **Sensors**, 18(12): 4323 (2018). (IF:3.847) [[Web]](https://www.mdpi.com/1424-8220/18/12/4323)
+- Wei Tao, Zhiqian Lu, `Qiaozhi He`, et al. Research on the temperature characteristics of the photoacoustic sensor of glucose solution. **Sensors**, 18(12): 4323 (2018). (IF:3.847) [[Web]](https://www.mdpi.com/1424-8220/18/12/4323)
 
-22. Siwei Zhao, Wei Tao, `Qiaozhi He`, et al. A non-invasive photoacoustic and ultrasonic method for the measurement of glucose solution concentration. **AIP Advances**, 7(3): 035313 (2017). (IF:1.697) [[Web]](https://pubs.aip.org/aip/adv/article/7/3/035313/1023711)
+- Siwei Zhao, Wei Tao, `Qiaozhi He`, et al. A non-invasive photoacoustic and ultrasonic method for the measurement of glucose solution concentration. **AIP Advances**, 7(3): 035313 (2017). (IF:1.697) [[Web]](https://pubs.aip.org/aip/adv/article/7/3/035313/1023711)
 
-23. Siwei Zhao, Wei Tao, `Qiaozhi He`, et al Glucose solution determination based on liquid photoacoustic resonance. **Applied optics**, 56(2): 193-199 (2017). (IF:1.905) [[Web]](https://opg.optica.org/ao/abstract.cfm?uri=ao-56-2-193)
+- Siwei Zhao, Wei Tao, `Qiaozhi He`, et al Glucose solution determination based on liquid photoacoustic resonance. **Applied optics**, 56(2): 193-199 (2017). (IF:1.905) [[Web]](https://opg.optica.org/ao/abstract.cfm?uri=ao-56-2-193)
 
 
 ### 投稿论文 (`†`表示共同一作)
 ---
-1.	`Qiaozhi He`, Rongjun Shao, Yuan Qu, et al. Complex transmission matrix retrieval for highly scattering medium via regional phase differentiation. **Photonics Research**, Under review. (SCI:Q1, Top, IF:7.254)
+-	`Qiaozhi He`, Rongjun Shao, Yuan Qu, et al. Complex transmission matrix retrieval for highly scattering medium via regional phase differentiation. **Photonics Research**, Under review. (SCI:Q1, Top, IF:7.254)
 
-2. Rongjun Shao, Chunxu Ding, Linxian Liu, `Qiaozhi He`, et al. High-fidelity multi-channel optical information transmission through scattering media. **Optics Express**, Under review. (中科院 2 区, IF:3.833)
+- Rongjun Shao, Chunxu Ding, Linxian Liu, `Qiaozhi He`, et al. High-fidelity multi-channel optical information transmission through scattering media. **Optics Express**, Under review. (中科院 2 区, IF:3.833)
 
 ### 发明专利
 ---
-1. 赵辉, 陶卫, 吕娜, `何巧芝`等, 一种便携式重金属含量快速检测装置, 中国, ZL202010422811.6, 2021.05.07. (已授权, 学生第一发明人) [[Web]](https://cprs.patentstar.com.cn/Search/Detail?ANE=9IEF4DBA9FEC5EBA9FEB3BCA9FGG5DAA9DGC9CAB9IHH2BAA)
-2. 陶卫, 赵辉, 王侃, 赵思维, `何巧芝`等, 一种可在线连续进行液体光声检测的光声池及测量方法, 中国, ZL201710710472.X, 2023.06.20. (已授权)[[Web]](https://cprs.patentstar.com.cn/Search/Detail?ANE=6AEA9DGA9HBACFHA3BBA9EFA9HBG7AGA9DHB5BAA9BIH4CAA)
-3. 陶卫, 赵辉, 胡艳丽, `何巧芝`等, 基于纳米金颗粒增强的液体痕量浓度检测方法及装置, 中国, ZL201810211449.0, 2020.03.10. (已授权, 学生第一发明人) [[Web]](https://cprs.patentstar.com.cn/Search/Detail?ANE=9HDD9GFC9GGE9ADC6DCA9HGE9IGH9EEA8AHA9AHC9FFFBEFA)
-4. 赵辉, 陶卫, 吕娜, 吕鹏飞, 陆志谦, `何巧芝`等, 具备温度补偿的差动光声测量系统和方法, 中国,  ZL201910190004.3, 2021.04.27. (已授权) [[Web]](https://cprs.patentstar.com.cn/Search/Detail?ANE=9CHC9CIB9IBBABHA9EIE9EHC9FFCAIAA9DHB8AIA1BAA9IBE)
-5. 陶卫, 赵辉, 高强, 张正琦, 杨红伟, 邓凯鹏, 赵思维, 肖素枝, 尹小恰, `何巧芝`等, 基于激光与视觉的机器人零位标定系统与方法, 中国, ZL201610281886.0, 2018.08.03. (已授权) [[Web]](https://cprs.patentstar.com.cn/Search/Detail?ANE=9ICD4BDA9HGF9BHF9FIF7FCA9GBA9AGF6AFA9HBHDEIA9CIH)
-6. 杨佳苗，蒋思源，`何巧芝`, 基于宽场多孔径合成相位偏折术的高反射自由曲面方法, 中国, CN202311320417.1, 2023.10.12. 
-7. 杨佳苗, `何巧芝`, 周纪冲等, 一种夏克哈特曼波前传感器误差评估方法, 中国, CN202310892349.X, 2023.07.20. [[Web]](https://cprs.patentstar.com.cn/Search/Detail?ANE=9BHB8CGA7CDAAHHA9EFB2BBAFHHA9FCH8BFACIIA9CHEGHHA)
-8. 杨佳苗, `何巧芝`, 李秋苑等, 基于相位掩模增强的散射介质传输矩阵测量方法和装置, 中国, CN202310851440.7, 2023.07.12. [[Web]](https://cprs.patentstar.com.cn/Search/Detail?ANE=5BCA8CGA8ECA8CDA9IDD8EEACIDA9DDC9BIBAFIA9BEA9FFB)
-9. 杨佳苗, `何巧芝`, 李静伟等, 一种光计算拓扑结构、系统以及系统的调控方法, 中国, CN202210510603.0, 2022.05.11. [[Web]](https://cprs.patentstar.com.cn/Search/Detail?ANE=7FAA9CIB9GBA9HCC9BHA1ABA9EEE8AHA9EFA9DGG8FDA3AAA)
-10. 杨佳苗, `何巧芝`, 刘林仙等, 基于全光场调控的散射介质光场聚焦方法与装置, 中国, CN202011312066.6, 2020.11.20. [[Web]](https://cprs.patentstar.com.cn/Search/Detail?ANE=7AFA9IDC9ICD9ICB8HAA9GIGBHIA9IGG5BCA9IBA9HDH9IAF)
-11. 杨佳苗, `何巧芝`, 刘林仙等, 基于复振幅光场调控的散射介质光场聚焦方法与装置, 中国, CN202011315091.X, 2020.11.20. [[Web]](https://cprs.patentstar.com.cn/Search/Detail?ANE=7FAA9IHG9HGG9HCA6BEA4CBA9HEF3BBABFIA9GHE9CAC9GDB)
-12. 杨佳苗, 刘林仙, `何巧芝`等, 光场实时探测调控方法与装置, 中国, CN202010492593.3, 2020.06.11. (学生第一发明人) [[Web]](https://cprs.patentstar.com.cn/Search/Detail?ANE=9IBC9FFB7CDA8EEA8CFA9HHF9CEC9EGD9BIH9IEG9HCH9IBC)
-13. 杨佳苗, 沈阳, 邵荣君, 王冬梅, `何巧芝`等, 一种补偿色散DMD投影方法, 中国, CN202310435279.5, 2023.04.21. [[Web]](https://cprs.patentstar.com.cn/Search/Detail?ANE=9IEF9IFE8GAA9FHG9IGG9FFB9HFH7BDA8ADA9EHE9DGH9DAD)
-14. 杨佳苗, 沈阳, 刘林仙, 童强, `何巧芝`等, 基于立体视觉引导的目标位置三维形貌高精度快速测量方法和装置, 中国, CN202011335835.4, 2020.11.25. [[Web]](https://cprs.patentstar.com.cn/Search/Detail?ANE=3BAA9EID9EFC2CAA3CAA5AEA5CAA9CEA9FCD9IAH9HAB9BDA)
-15. 杨佳苗, 刘林仙, 邹高宇, 龚雷, `何巧芝`等, 基于复振幅光场调控技术的三维光束扫描方法与装置, 中国, CN202011315092.4, 2020.11.20. [[Web]](https://cprs.patentstar.com.cn/Search/Detail?ANE=9HFF9HIG5ADA9GEB9CIC8DEA9GEE9HFE9EDD3CBAABHA9EDA)
-16. 杨佳苗, 邹高宇, 武文彬, 刘林仙, 龚雷, `何巧芝`等, 基于复振幅光场调控技术的光束扫描方法与装置, 中国, CN202011315093.9, 2020.11.20. [[Web]](https://cprs.patentstar.com.cn/Search/Detail?ANE=9HEE1BAA9IEF0AAA6EBA9GFD9IBD6CDAAHFA9FIE9AHH4ABA)
-17. 杨佳苗, 沈阳, 刘林仙, 童强, `何巧芝`, 具有荧光污染物检测功能的智能手机及检测方法, 中国, CN202010492593.3, 2020.06.03. [[Web]](https://cprs.patentstar.com.cn/Search/Detail?ANE=9CFA4EAA9IGH9IFE8AHA7HAA9AFAACGA4CAA9BEB9EDHAIGA)
-18. 刘林仙, 沈阳, 杨佳苗, 童强, `何巧芝`, 智能手机荧光污染物检测方法与装置, 中国, CN202010492594.8, 2020.06.03. [[Web]](https://cprs.patentstar.com.cn/Search/Detail?ANE=8BFA6BFA9IDE9EFA9BHA6CEA9EFEHHIA9EFC9BGD9BEF9EDC)
-19. 杨佳苗, 沈阳, 刘林仙, 童强, `何巧芝`, 智能设备荧光污染物检测方法与装置, 中国, CN202010492596.7, 2020.06.03. [[Web]](https://cprs.patentstar.com.cn/Search/Detail?ANE=9GFE7GBA9FEC8BHA7AGA9FEACIHADDIA9IAB9EHHACGA9FBD)
-20. 姜虹, 赵辉, 孙宇, 胡蓉, 吕娜, 严佳, 王佳怡, 郑超, `何巧芝`, 一种基于呼气末二氧化碳浓度分布的插管装置, 中国, CN201910511744.2, 2019.06.13. [[Web]](https://cprs.patentstar.com.cn/Search/Detail?ANE=9DIE7AHA6AFA9ACC9FDA8IAA9GEG3ACA4ADA9DBC9GEF9BEA)
-21. 陶卫, 赵辉, 赵思维, `何巧芝`等, 可抵抗环境干扰和振动的差动式无创血糖监测仪及方法, 中国, CN201710621448.9, 2017.07.27. [[Web]](https://cprs.patentstar.com.cn/Search/Detail?ANE=4ACA9IGF9GDB9GDH9CIC6DDA8CAA3ABA5DBA9EIH9HBDEGHA)
+- 赵辉, 陶卫, 吕娜, `何巧芝`等, 一种便携式重金属含量快速检测装置, 中国, ZL202010422811.6, 2021.05.07. (已授权, 学生第一发明人) [[Web]](https://cprs.patentstar.com.cn/Search/Detail?ANE=9IEF4DBA9FEC5EBA9FEB3BCA9FGG5DAA9DGC9CAB9IHH2BAA)
+- 陶卫, 赵辉, 王侃, 赵思维, `何巧芝`等, 一种可在线连续进行液体光声检测的光声池及测量方法, 中国, ZL201710710472.X, 2023.06.20. (已授权)[[Web]](https://cprs.patentstar.com.cn/Search/Detail?ANE=6AEA9DGA9HBACFHA3BBA9EFA9HBG7AGA9DHB5BAA9BIH4CAA)
+- 陶卫, 赵辉, 胡艳丽, `何巧芝`等, 基于纳米金颗粒增强的液体痕量浓度检测方法及装置, 中国, ZL201810211449.0, 2020.03.10. (已授权, 学生第一发明人) [[Web]](https://cprs.patentstar.com.cn/Search/Detail?ANE=9HDD9GFC9GGE9ADC6DCA9HGE9IGH9EEA8AHA9AHC9FFFBEFA)
+- 赵辉, 陶卫, 吕娜, 吕鹏飞, 陆志谦, `何巧芝`等, 具备温度补偿的差动光声测量系统和方法, 中国,  ZL201910190004.3, 2021.04.27. (已授权) [[Web]](https://cprs.patentstar.com.cn/Search/Detail?ANE=9CHC9CIB9IBBABHA9EIE9EHC9FFCAIAA9DHB8AIA1BAA9IBE)
+- 陶卫, 赵辉, 高强, 张正琦, 杨红伟, 邓凯鹏, 赵思维, 肖素枝, 尹小恰, `何巧芝`等, 基于激光与视觉的机器人零位标定系统与方法, 中国, ZL201610281886.0, 2018.08.03. (已授权) [[Web]](https://cprs.patentstar.com.cn/Search/Detail?ANE=9ICD4BDA9HGF9BHF9FIF7FCA9GBA9AGF6AFA9HBHDEIA9CIH)
+- 杨佳苗，蒋思源，`何巧芝`, 基于宽场多孔径合成相位偏折术的高反射自由曲面方法, 中国, CN202311320417.1, 2023.10.12. 
+- 杨佳苗, `何巧芝`, 周纪冲等, 一种夏克哈特曼波前传感器误差评估方法, 中国, CN202310892349.X, 2023.07.20. [[Web]](https://cprs.patentstar.com.cn/Search/Detail?ANE=9BHB8CGA7CDAAHHA9EFB2BBAFHHA9FCH8BFACIIA9CHEGHHA)
+- 杨佳苗, `何巧芝`, 李秋苑等, 基于相位掩模增强的散射介质传输矩阵测量方法和装置, 中国, CN202310851440.7, 2023.07.12. [[Web]](https://cprs.patentstar.com.cn/Search/Detail?ANE=5BCA8CGA8ECA8CDA9IDD8EEACIDA9DDC9BIBAFIA9BEA9FFB)
+- 杨佳苗, `何巧芝`, 李静伟等, 一种光计算拓扑结构、系统以及系统的调控方法, 中国, CN202210510603.0, 2022.05.11. [[Web]](https://cprs.patentstar.com.cn/Search/Detail?ANE=7FAA9CIB9GBA9HCC9BHA1ABA9EEE8AHA9EFA9DGG8FDA3AAA)
+- 杨佳苗, `何巧芝`, 刘林仙等, 基于全光场调控的散射介质光场聚焦方法与装置, 中国, CN202011312066.6, 2020.11.20. [[Web]](https://cprs.patentstar.com.cn/Search/Detail?ANE=7AFA9IDC9ICD9ICB8HAA9GIGBHIA9IGG5BCA9IBA9HDH9IAF)
+- 杨佳苗, `何巧芝`, 刘林仙等, 基于复振幅光场调控的散射介质光场聚焦方法与装置, 中国, CN202011315091.X, 2020.11.20. [[Web]](https://cprs.patentstar.com.cn/Search/Detail?ANE=7FAA9IHG9HGG9HCA6BEA4CBA9HEF3BBABFIA9GHE9CAC9GDB)
+- 杨佳苗, 刘林仙, `何巧芝`等, 光场实时探测调控方法与装置, 中国, CN202010492593.3, 2020.06.11. (学生第一发明人) [[Web]](https://cprs.patentstar.com.cn/Search/Detail?ANE=9IBC9FFB7CDA8EEA8CFA9HHF9CEC9EGD9BIH9IEG9HCH9IBC)
+- 杨佳苗, 沈阳, 邵荣君, 王冬梅, `何巧芝`等, 一种补偿色散DMD投影方法, 中国, CN202310435279.5, 2023.04.21. [[Web]](https://cprs.patentstar.com.cn/Search/Detail?ANE=9IEF9IFE8GAA9FHG9IGG9FFB9HFH7BDA8ADA9EHE9DGH9DAD)
+- 杨佳苗, 沈阳, 刘林仙, 童强, `何巧芝`等, 基于立体视觉引导的目标位置三维形貌高精度快速测量方法和装置, 中国, CN202011335835.4, 2020.11.25. [[Web]](https://cprs.patentstar.com.cn/Search/Detail?ANE=3BAA9EID9EFC2CAA3CAA5AEA5CAA9CEA9FCD9IAH9HAB9BDA)
+- 杨佳苗, 刘林仙, 邹高宇, 龚雷, `何巧芝`等, 基于复振幅光场调控技术的三维光束扫描方法与装置, 中国, CN202011315092.4, 2020.11.20. [[Web]](https://cprs.patentstar.com.cn/Search/Detail?ANE=9HFF9HIG5ADA9GEB9CIC8DEA9GEE9HFE9EDD3CBAABHA9EDA)
+- 杨佳苗, 邹高宇, 武文彬, 刘林仙, 龚雷, `何巧芝`等, 基于复振幅光场调控技术的光束扫描方法与装置, 中国, CN202011315093.9, 2020.11.20. [[Web]](https://cprs.patentstar.com.cn/Search/Detail?ANE=9HEE1BAA9IEF0AAA6EBA9GFD9IBD6CDAAHFA9FIE9AHH4ABA)
+- 杨佳苗, 沈阳, 刘林仙, 童强, `何巧芝`, 具有荧光污染物检测功能的智能手机及检测方法, 中国, CN202010492593.3, 2020.06.03. [[Web]](https://cprs.patentstar.com.cn/Search/Detail?ANE=9CFA4EAA9IGH9IFE8AHA7HAA9AFAACGA4CAA9BEB9EDHAIGA)
+- 刘林仙, 沈阳, 杨佳苗, 童强, `何巧芝`, 智能手机荧光污染物检测方法与装置, 中国, CN202010492594.8, 2020.06.03. [[Web]](https://cprs.patentstar.com.cn/Search/Detail?ANE=8BFA6BFA9IDE9EFA9BHA6CEA9EFEHHIA9EFC9BGD9BEF9EDC)
+- 杨佳苗, 沈阳, 刘林仙, 童强, `何巧芝`, 智能设备荧光污染物检测方法与装置, 中国, CN202010492596.7, 2020.06.03. [[Web]](https://cprs.patentstar.com.cn/Search/Detail?ANE=9GFE7GBA9FEC8BHA7AGA9FEACIHADDIA9IAB9EHHACGA9FBD)
+- 姜虹, 赵辉, 孙宇, 胡蓉, 吕娜, 严佳, 王佳怡, 郑超, `何巧芝`, 一种基于呼气末二氧化碳浓度分布的插管装置, 中国, CN201910511744.2, 2019.06.13. [[Web]](https://cprs.patentstar.com.cn/Search/Detail?ANE=9DIE7AHA6AFA9ACC9FDA8IAA9GEG3ACA4ADA9DBC9GEF9BEA)
+- 陶卫, 赵辉, 赵思维, `何巧芝`等, 可抵抗环境干扰和振动的差动式无创血糖监测仪及方法, 中国, CN201710621448.9, 2017.07.27. [[Web]](https://cprs.patentstar.com.cn/Search/Detail?ANE=4ACA9IGF9GDB9GDH9CIC6DDA8CAA3ABA5DBA9EIH9HBDEGHA)
 
 ### 实用新型专利
 ---
-1. 杨佳苗, 刘林仙, `何巧芝`等, 光场实时探测调控装置, ZL202021064109.9, 2020.12.29. [[Web]](https://cprs.patentstar.com.cn/Search/Detail?ANE=9CFA9HHF7FAA7AHA9DHD7ECA8BHAAGFA8DBA6CDA9HCAIIIA)
-2. 杨佳苗, 沈阳, 刘林仙, 童强, `何巧芝`, 智能设备荧光污染物检测装置, 中国, ZL202020987643.0, 2021.03.23. (已授权) [[Web]](https://cprs.patentstar.com.cn/Search/Detail?ANE=9GHG5FAA8DDA8DFA9BGA5EBAGGIA9AIH9CGGAEHA9HDF9CGC)
-3. 杨佳苗, 沈阳, 刘林仙, 童强, `何巧芝`, 具有荧光污染物检测功能的智能手机, 中国, ZL202020987996.0, 2021.02.19. (已授权) [[Web]](https://cprs.patentstar.com.cn/Search/Detail?ANE=9HEE8BHA9BGA7BGA9FHF9BIA9BBCDIEA9BCB9AFFFGHABFHA)
-4. 姜虹, 赵辉, 孙宇, 胡蓉, 吕娜, 严佳, 王佳怡, 郑超, `何巧芝`, 一种基于呼气末二氧化碳浓度分布的插管装置, 中国, ZL201920891851.8, 2020.08.07. (已授权) [[Web]](https://cprs.patentstar.com.cn/Search/Detail?ANE=4CAA8GCA9FGDCEGA9IFG8BHACIDAEGGA9GHF9AED5AAA7DDA)
-5. 陶卫, 赵辉, 王侃, 赵思维, `何巧芝`等, 一种可在线连续进行液体光声检测的光声池, 中国, ZL201721036422.X, 2018.03.06. (已授权) [[Web]](https://cprs.patentstar.com.cn/Search/Detail?ANE=9EDA7HAA9EEA9CEE9EEB9IDD9HHF9BFA9FBD9EHG4BBA9BHB)
-6. 杨佳苗, 沈阳, 邵荣君, 王冬梅, `何巧芝`等, 一种补偿色散DMD投影装置, 中国, ZL202320915077.6, 2023.4.21. (已授权) [[Web]](https://cprs.patentstar.com.cn/Search/Detail?ANE=5ADA9CHA9HCC9EFD9GFE6CEA9CCE9DFA9DED8IAA9IBH9DEF)
+- 杨佳苗, 刘林仙, `何巧芝`等, 光场实时探测调控装置, ZL202021064109.9, 2020.12.29. [[Web]](https://cprs.patentstar.com.cn/Search/Detail?ANE=9CFA9HHF7FAA7AHA9DHD7ECA8BHAAGFA8DBA6CDA9HCAIIIA)
+- 杨佳苗, 沈阳, 刘林仙, 童强, `何巧芝`, 智能设备荧光污染物检测装置, 中国, ZL202020987643.0, 2021.03.23. (已授权) [[Web]](https://cprs.patentstar.com.cn/Search/Detail?ANE=9GHG5FAA8DDA8DFA9BGA5EBAGGIA9AIH9CGGAEHA9HDF9CGC)
+- 杨佳苗, 沈阳, 刘林仙, 童强, `何巧芝`, 具有荧光污染物检测功能的智能手机, 中国, ZL202020987996.0, 2021.02.19. (已授权) [[Web]](https://cprs.patentstar.com.cn/Search/Detail?ANE=9HEE8BHA9BGA7BGA9FHF9BIA9BBCDIEA9BCB9AFFFGHABFHA)
+- 姜虹, 赵辉, 孙宇, 胡蓉, 吕娜, 严佳, 王佳怡, 郑超, `何巧芝`, 一种基于呼气末二氧化碳浓度分布的插管装置, 中国, ZL201920891851.8, 2020.08.07. (已授权) [[Web]](https://cprs.patentstar.com.cn/Search/Detail?ANE=4CAA8GCA9FGDCEGA9IFG8BHACIDAEGGA9GHF9AED5AAA7DDA)
+- 陶卫, 赵辉, 王侃, 赵思维, `何巧芝`等, 一种可在线连续进行液体光声检测的光声池, 中国, ZL201721036422.X, 2018.03.06. (已授权) [[Web]](https://cprs.patentstar.com.cn/Search/Detail?ANE=9EDA7HAA9EEA9CEE9EEB9IDD9HHF9BFA9FBD9EHG4BBA9BHB)
+- 杨佳苗, 沈阳, 邵荣君, 王冬梅, `何巧芝`等, 一种补偿色散DMD投影装置, 中国, ZL202320915077.6, 2023.4.21. (已授权) [[Web]](https://cprs.patentstar.com.cn/Search/Detail?ANE=5ADA9CHA9HCC9EFD9GFE6CEA9CCE9DFA9DED8IAA9IBH9DEF)
 
 
 <span class='anchor' id='-kyxm'></span>
