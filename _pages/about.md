@@ -180,6 +180,7 @@ Yanyu Zhao, `Qiaozhi He (学生一作)`, Shuna Li, et al. <br>
 - 陶卫, 赵辉, 胡艳丽, `何巧芝`等, 基于纳米金颗粒增强的液体痕量浓度检测方法及装置, 中国, ZL201810211449.0, 2020.03.10. (已授权, 学生第一发明人) [[Web]](https://cprs.patentstar.com.cn/Search/Detail?ANE=9HDD9GFC9GGE9ADC6DCA9HGE9IGH9EEA8AHA9AHC9FFFBEFA)
 - 赵辉, 陶卫, 吕娜, 吕鹏飞, 陆志谦, `何巧芝`等, 具备温度补偿的差动光声测量系统和方法, 中国,  ZL201910190004.3, 2021.04.27. (已授权) [[Web]](https://cprs.patentstar.com.cn/Search/Detail?ANE=9CHC9CIB9IBBABHA9EIE9EHC9FFCAIAA9DHB8AIA1BAA9IBE)
 - 陶卫, 赵辉, 高强, 张正琦, 杨红伟, 邓凯鹏, 赵思维, 肖素枝, 尹小恰, `何巧芝`等, 基于激光与视觉的机器人零位标定系统与方法, 中国, ZL201610281886.0, 2018.08.03. (已授权) [[Web]](https://cprs.patentstar.com.cn/Search/Detail?ANE=9ICD4BDA9HGF9BHF9FIF7FCA9GBA9AGF6AFA9HBHDEIA9CIH)
+- 杨佳苗, 周纪冲, `何巧芝`, 一种基于全局光斑匹配的夏克哈德曼波前检测方法, 中国, CN202311694390.2, 2023.12.12.
 - 杨佳苗，蒋思源，`何巧芝`, 基于宽场多孔径合成相位偏折术的高反射自由曲面方法, 中国, CN202311320417.1, 2023.10.12. 
 - 杨佳苗, `何巧芝`, 周纪冲等, 一种夏克哈特曼波前传感器误差评估方法, 中国, CN202310892349.X, 2023.07.20. [[Web]](https://cprs.patentstar.com.cn/Search/Detail?ANE=9BHB8CGA7CDAAHHA9EFB2BBAFHHA9FCH8BFACIIA9CHEGHHA)
 - 杨佳苗, `何巧芝`, 李秋苑等, 基于相位掩模增强的散射介质传输矩阵测量方法和装置, 中国, CN202310851440.7, 2023.07.12. [[Web]](https://cprs.patentstar.com.cn/Search/Detail?ANE=5BCA8CGA8ECA8CDA9IDD8EEACIDA9DDC9BIBAFIA9BEA9FFB)
