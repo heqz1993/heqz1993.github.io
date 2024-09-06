@@ -17,25 +17,28 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-何巧芝，工学博士，助理研究员。本科毕业于<a href = "http://mse.hust.edu.cn/">华中科技大学机械科学与工程学院</a>，后推免直博于<a href = "https://www.seiee.sjtu.edu.cn/">上海交通大学电子信息与电气学院</a>，期间赴<a href = "https://www.psu.edu/">美国宾夕法尼亚州立大学</a>公派留学。2022年入职<a href = "https://ime.sjtu.edu.cn/">上海交通大学海洋装备研究院</a>，加入<a href = "https://juopt.sjtu.edu.cn/">智能光电感知研究所</a>，从事光场调控、光学检测等方面研究，并对计算光学、智能感知等方向有浓厚兴趣，迄今已在 Science Advances、Light: Science & Applications、Photonics Research、Light: Advanced Manufacturing等知名SCI期刊发表论文20余篇
+何巧芝，工学博士，助理研究员。本科毕业于<a href = "http://mse.hust.edu.cn/">华中科技大学机械科学与工程学院</a>，后推免直博于<a href = "https://www.seiee.sjtu.edu.cn/">上海交通大学电子信息与电气学院</a>，期间赴<a href = "https://www.psu.edu/">美国宾夕法尼亚州立大学</a>公派留学。2024年加入<a href = "https://saist.usst.edu.cn">上海理工大学智能科技学院</a>，从事波前整形、衍射神经网络等方面研究，并对计算光学、智能感知等方向有浓厚兴趣，迄今已在 Science Advances、Light: Science & Applications、Photonics Research、Light: Advanced Manufacturing等知名SCI期刊发表论文20余篇
  <a href='https://scholar.google.com/citations?user=Rm2lL78AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>，申请国家发明专利20余项。
 
-研究方向：散射光场调控、波前检测、精密光学检测
+研究方向：散射光场调控、衍射神经网络、精密光学检测
 
 <span class='anchor' id='-xsdt'></span>
 
 # 📣 学术动态
+- *2024.09*: &nbsp; 加入上海理工大学智能科技学院
+- *2024.08*: &nbsp;🎉🎉 获批国家自然科学基金青年科学基金项目
 - *2024.02*: &nbsp;🎉🎉 散射介质传输矩阵测量相关研究被 Photonics Research 接收
 - *2023.12*: &nbsp;🎉🎉 夏克-哈德曼波前传感相关研究被中国科技期刊卓越行动计划高起点新刊 Light: Advanced Manufacturing 接收
 - *2023.10*: &nbsp;🎉🎉 相位偏折术相关研究被 Optics Express 接收
 - *2023.09*: &nbsp;🎉🎉 超高清全息三维显示相关研究被 Science 子刊 Science Advances 接收
 - *2023.08*: &nbsp;🎉🎉 夏克-哈特曼波前传感相关研究被 Applied Physics Letters 接收
-- *2023.07*: &nbsp; 参加 2023 中国光学学会学术大会（口头报告）
+<!-- - *2023.07*: &nbsp; 参加 2023 中国光学学会学术大会（口头报告） -->
 
 <span class='anchor' id='-gzfw'></span>
 
 # 💻 工作服务
-- *2021.01 - 至今*, 上海交通大学—海洋装备研究院, 助理研究员, 上海
+- *2024.09 - 至今*, 上海理工大学 — 智能科技学院, 讲师, 上海
+- *2022.01 - 2024.08*, 上海交通大学 — 海洋装备研究院, 助理研究员, 上海
 
 <span class='anchor' id='-qxjl'></span>
 
@@ -223,6 +226,7 @@ Jiamiao Yang†, Jichong Zhou†, `Qiaozhi He*`, et al. <br>
 
 # 🏛️ 科研项目
 
+- *2025.01-2027.12*, 高分辨率快速抗散射非视域成像方法研究，国家自然科学基金青年科学基金项目, `项目负责人`
 - *2019.01-2022.12*, 纳米金颗粒增强的痕量汞光声检测机理与方法研究, 国家自然科学基金面上项目,  `项目主要完成人`
 - *2021.01-2022.12*, 超景深三维数字显微仪器研制, 上海季丰电子股份有限公司合作项目, `项目参与人`
 - *2023.01-2025.12*, 近浅海微底形高分辨近底原位光学观测系统研制与应用, 上海交通大学“深蓝计划”基金重点项目, `项目核心成员`
